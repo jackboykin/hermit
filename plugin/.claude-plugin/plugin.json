@@ -1,0 +1,11 @@
+{
+  "name": "hermit",
+  "description": "Gives Claude a first-class nushell beside Bash",
+  "author": {
+    "name": "Jack Boykin",
+    "url": "https://github.com/jackboykin"
+  },
+  "homepage": "https://github.com/jackboykin/hermit",
+  "repository": "https://github.com/jackboykin/hermit",
+  "license": "MIT"
+}
