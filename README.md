@@ -15,7 +15,7 @@ Each call is a fresh `nu --no-config-file`, so variables and definitions don't c
 
 ## Install
 
-You need `nu` on your `PATH` (tested with 0.115), a recent Claude Code, and `CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1`.
+You need `nu` on your `PATH` (tested with 0.115) and a recent Claude Code.
 
 ```sh
 claude plugin marketplace add jackboykin/hermit
